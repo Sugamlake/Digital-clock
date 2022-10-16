@@ -28,3 +28,5 @@ function updateClock() {
     updateClock();
   }, 1000);
 }
+
+updateClock();
